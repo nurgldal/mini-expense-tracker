@@ -38,6 +38,7 @@ Kullanıcıların giderlerini kategori ve aya göre kaydedip, görüntüleyip ve
 - 🐍 Python 3.10+
 - 🧾 JSON for local data storage
 - ⚙️ Modular design with functions
+- 💡 CRUD operations (Create, Read, Update, Delete)
 - 💡 Clean terminal interface
 ---  
 ## ✨ Future Improvements | Gelecekteki Geliştirmeler
