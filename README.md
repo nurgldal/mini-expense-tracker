@@ -24,13 +24,14 @@ Kullanıcıların giderlerini kategori ve aya göre kaydedip, görüntüleyip ve
 ---
 
 ## 📁 Project Structure | Proje Yapısı
-invoice_organizer/
-│
-├── main.py # Main menu and program flow | Ana menü ve program akışı
-├── functions.py # Expense-related functions | Gider işlemleri fonksiyonları
-├── data.json # Stores expenses in JSON | Gider verilerinin tutulduğu dosya
-├── README.md # Project documentation | Proje açıklama dosyası
-├── .gitignore # Excluded files | GitHub'a yüklenmeyecek dosyalar
+| File / Folder     | Description (EN)                              | Açıklama (TR)                                 |
+|-------------------|------------------------------------------------|------------------------------------------------|
+| `main.py`         | Main menu and program flow                    | Ana menü ve program akışı (CRUD kontrolü)     |
+| `functions.py`    | Expense-related functions                     | CRUD işlemlerini gerçekleştiren fonksiyonlar  |
+| `data.json`       | Stores expenses in JSON                       | Gider verilerinin tutulduğu dosya             |
+| `README.md`       | Project documentation                         | Proje açıklama dosyası                        |
+| `.gitignore`      | Excluded files (ignored by GitHub)            | GitHub’a yüklenmeyecek dosyalar               |
+
 
 ---
 ## 🧱 Technologies Used | Kullanılan Teknolojiler
