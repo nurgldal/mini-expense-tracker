@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "date": "25-10-2025",
+        "category": "Other",
+        "total": 3520.0,
+        "explanation": "Fuel",
+        "payment_type": "Card"
+    }
+]
