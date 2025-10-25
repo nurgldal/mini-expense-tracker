@@ -31,20 +31,15 @@ invoice_organizer/
 ├── data.json # Stores expenses in JSON | Gider verilerinin tutulduğu dosya
 ├── README.md # Project documentation | Proje açıklama dosyası
 ├── .gitignore # Excluded files | GitHub'a yüklenmeyecek dosyalar
-└── requirements.txt # Dependencies | Gereksinim dosyası
 
+---
 ## 🧱 Technologies Used | Kullanılan Teknolojiler
-
 - 🐍 Python 3.10+
-
 - 🧾 JSON for local data storage
-
 - ⚙️ Modular design with functions
-
 - 💡 Clean terminal interface
-  
+---  
 ## ✨ Future Improvements | Gelecekteki Geliştirmeler
-
 - 🚀 Add graphical interface (Tkinter or Streamlit)
 - 📊 Export reports as CSV or Excel
 - ☁️ Add SQLite or cloud database support
